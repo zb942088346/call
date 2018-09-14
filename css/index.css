@@ -348,6 +348,10 @@
     /*background: red;*/
      margin: 10px auto;
 }
+.sample .reels  .sample_on li a{
+    width: 250px;
+   height: 250px;
+}
 .sample .reels  .sample_on li a img{
     display: block;
     width: 200px;
@@ -399,8 +403,8 @@
 }
 .sample1 .reels1  .sample_on1 li a img{
     display: block;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     margin: 0 auto;
 }
 .sample1 .reels1  .sample_on1 li a p{
